@@ -1,4 +1,4 @@
-# FilmBuddy 🎥
+# Entertainment-Engine 🎥
 ---
 **FilmBuddy** is a movie recommendation system built using the TMDB dataset, featuring over 5,000 movies. The system recommends movies based on descriptions, genres, and user ratings, utilizing advanced text vectorization techniques.
 
