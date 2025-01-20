@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-- **Duration:** Jan 2024 - Feb 2024
+- **Duration:** May 2024 - Jul 2024
 - **Type:** Self-Project
 - **Technologies:** Python, Pandas, Scikit-learn, TMDB API, TfidfVectorizer, Cosine Similarity
 
